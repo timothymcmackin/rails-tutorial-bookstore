@@ -21,3 +21,10 @@
   color: #666;
   line-height: 1.5em;
 }
+
+header {
+  background: #333;
+  color: #fff;
+  height: 80px;
+  margin-bottom: 20px;
+}
