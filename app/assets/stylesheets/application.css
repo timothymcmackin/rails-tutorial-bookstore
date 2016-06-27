@@ -38,6 +38,14 @@ footer {
   padding-top: 20px;
 }
 
+#books-index {
+  text-align: center;
+}
+
 #books-index img{
   width: 100%;
+}
+
+#books-index h3{
+  height: 50px;
 }
