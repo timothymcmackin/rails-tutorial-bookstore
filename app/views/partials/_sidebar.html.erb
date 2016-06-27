@@ -1,1 +1,12 @@
-This is the sidebar.
+<% if params[:controller] == 'about' %>
+<div class="well">
+  <h3 Location info</h3>
+  <ul>
+    <li>My bookstore</li>
+    <li>123 any street</li>
+    <li>Cooltown, NC, 27712</li>
+    <li>Phone: 123-456-7890</li>
+    <li>Email: whatever@example.org</li>
+  </ul>
+</div>
+<% end %>
