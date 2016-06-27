@@ -37,3 +37,7 @@ footer {
   text-align: center;
   padding-top: 20px;
 }
+
+#books-index img{
+  width: 100%;
+}
