@@ -10,3 +10,10 @@
   </ul>
 </div>
 <% end %>
+
+<% if params[:controller] == 'books' && params[:action] == 'index' || params[:action] == 'show' %>
+<ul class="list-group">
+  <li class="list-group-item">Good books</li>
+  <li class="list-group-item">Other good books</li>
+  <li class="list-group-item">Different good books</li>
+</ul>
