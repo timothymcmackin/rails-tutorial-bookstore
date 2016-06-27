@@ -44,8 +44,15 @@ footer {
 
 #books-index img{
   width: 100%;
+  padding: 3px;
+  border: 1px;
 }
 
 #books-index h3{
   height: 80px;
+}
+
+#books-index .btn{
+  display: block;
+  margin-top: 20px;
 }
