@@ -62,13 +62,13 @@ footer {
   padding: 10px;
 }
 
-#books-show-right{
+.books-show-right{
   float: right;
   width: 60%
   margin-top: 10px;
 }
 
-#books-show-left{
+.books-show-left{
   float: left;
   width: 40%;
 }
